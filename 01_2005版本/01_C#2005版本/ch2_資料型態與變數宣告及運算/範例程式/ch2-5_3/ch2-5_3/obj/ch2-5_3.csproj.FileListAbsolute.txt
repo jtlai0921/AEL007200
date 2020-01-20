@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_3\ch2-5_3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_3\ch2-5_3\bin\Debug\ch2-5_3.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_3\ch2-5_3\obj\Debug\ch2-5_3.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_3\ch2-5_3\bin\Debug\ch2-5_3.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_3\ch2-5_3\obj\Debug\ch2-5_3.exe

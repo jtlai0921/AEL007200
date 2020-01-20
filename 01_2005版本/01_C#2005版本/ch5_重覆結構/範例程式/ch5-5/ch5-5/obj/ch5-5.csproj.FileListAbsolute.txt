@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\bin\Debug\ch5-5.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\bin\Debug\ch5-5.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ch5_5.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ch5_5.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ch5-5.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ch5-5.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ch5-5\ch5-5\obj\Debug\ch5-5.pdb

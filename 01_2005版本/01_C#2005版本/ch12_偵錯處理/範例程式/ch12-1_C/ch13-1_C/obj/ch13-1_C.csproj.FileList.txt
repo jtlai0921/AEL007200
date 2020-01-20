@@ -1,0 +1,4 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ch13_1_C.Form1.resources
+obj\Debug\ch13_1_C.Properties.Resources.resources
+obj\Debug\ch13-1_C.csproj.GenerateResource.Cache

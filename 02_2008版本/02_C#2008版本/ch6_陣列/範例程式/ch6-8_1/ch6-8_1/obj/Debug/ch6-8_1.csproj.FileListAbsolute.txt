@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\01_C#2008版本\ch6_陣列\範例程式\ch6-8_1\ch6-8_1\obj\Debug\ch6-8_1.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\01_C#2008版本\ch6_陣列\範例程式\ch6-8_1\ch6-8_1\obj\Debug\ch6-8_1.pdb

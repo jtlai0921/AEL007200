@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\01_C#2008版本\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_1\ch2-5_1\obj\Debug\ch2-5_1.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\01_C#2008版本\ch2_資料型態與變數宣告及運算\範例程式\ch2-5_1\ch2-5_1\obj\Debug\ch2-5_1.pdb

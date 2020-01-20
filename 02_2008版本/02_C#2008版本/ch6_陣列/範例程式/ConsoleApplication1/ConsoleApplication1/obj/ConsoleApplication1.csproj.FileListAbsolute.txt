@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch5_重覆結構\範例程式\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

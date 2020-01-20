@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ch2_4_7B.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ch2_4_7B.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ch2-4_7B.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\bin\Debug\ch2-4_7B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\bin\Debug\ch2-4_7B.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ch2-4_7B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch2_資料型態與變數宣告及運算\範例程式\ch2-4_7B\ch2-4_7B\obj\Debug\ch2-4_7B.pdb

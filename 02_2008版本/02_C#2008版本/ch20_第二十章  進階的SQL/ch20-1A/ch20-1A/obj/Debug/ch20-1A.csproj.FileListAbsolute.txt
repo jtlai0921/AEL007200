@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\02_C#2008版本\ch20_第二十章  進階的SQL\ch20-1A\ch20-1A\obj\Debug\ch20-1A.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\02_C#2008版本\ch20_第二十章  進階的SQL\ch20-1A\ch20-1A\obj\Debug\ch20-1A.pdb

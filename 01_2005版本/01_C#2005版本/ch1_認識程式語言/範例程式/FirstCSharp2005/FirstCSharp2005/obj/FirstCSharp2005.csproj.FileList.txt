@@ -1,0 +1,8 @@
+bin\Debug\FirstCSharp2005.exe
+bin\Debug\FirstCSharp2005.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstCSharp2005.Form1.resources
+obj\Debug\FirstCSharp2005.Properties.Resources.resources
+obj\Debug\FirstCSharp2005.csproj.GenerateResource.Cache
+obj\Debug\FirstCSharp2005.exe
+obj\Debug\FirstCSharp2005.pdb

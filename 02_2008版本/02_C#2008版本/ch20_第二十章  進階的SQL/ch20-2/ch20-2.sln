@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch20-2", "ch20-2\ch20-2.csproj", "{E08520DD-A317-4FBD-A3C8-C47CD2AAA16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08520DD-A317-4FBD-A3C8-C47CD2AAA16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08520DD-A317-4FBD-A3C8-C47CD2AAA16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08520DD-A317-4FBD-A3C8-C47CD2AAA16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08520DD-A317-4FBD-A3C8-C47CD2AAA16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

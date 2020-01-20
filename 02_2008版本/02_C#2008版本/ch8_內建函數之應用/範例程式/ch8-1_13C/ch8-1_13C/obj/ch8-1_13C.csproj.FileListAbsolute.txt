@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ch8_1_13C.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ch8_1_13C.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ch8-1_13C.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\bin\Debug\ch8-1_13C.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\bin\Debug\ch8-1_13C.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ch8-1_13C.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8-1_13C\ch8-1_13C\obj\Debug\ch8-1_13C.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ch6_3_2B.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ch6_3_2B.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ch6-3_2B.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\bin\Debug\ch6-3_2B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\bin\Debug\ch6-3_2B.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ch6-3_2B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-3_2B\ch6-3_2B\obj\Debug\ch6-3_2B.pdb

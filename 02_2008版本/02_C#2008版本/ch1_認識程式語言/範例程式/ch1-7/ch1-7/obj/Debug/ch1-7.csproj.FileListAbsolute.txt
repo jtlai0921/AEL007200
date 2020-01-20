@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\ch1_認識程式語言\範例程式\ch1-7\ch1-7\obj\Debug\ch1-7.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971106)\01_C#2008入門篇\C#範例程式\ch1_認識程式語言\範例程式\ch1-7\ch1-7\obj\Debug\ch1-7.pdb

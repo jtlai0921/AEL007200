@@ -1,0 +1,8 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\bin\Debug\ch20-1.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\bin\Debug\ch20-1.pdb
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ch20_1.Form1.resources
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ch20_1.Properties.Resources.resources
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ch20-1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ch20-1.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch20_第二十章  進階的SQL\ch20-1\ch20-1\obj\Debug\ch20-1.pdb

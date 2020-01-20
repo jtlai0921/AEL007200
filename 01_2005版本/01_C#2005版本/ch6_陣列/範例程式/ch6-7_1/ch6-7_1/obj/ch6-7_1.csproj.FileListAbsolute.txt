@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6_7_1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6_7_1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\bin\Debug\ch6-7_1.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\bin\Debug\ch6-7_1.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.pdb
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.exe
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.pdb
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\bin\Debug\ch6-7_1.exe
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\bin\Debug\ch6-7_1.pdb
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6_7_1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6_7_1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\大專用書(李春雄著作)\004_VC#2005學習實務970616\0002_VC#2005學習經典(附書光碟)\ch6_陣列\範例程式\ch6-7_1\ch6-7_1\obj\Debug\ch6-7_1.csproj.GenerateResource.Cache

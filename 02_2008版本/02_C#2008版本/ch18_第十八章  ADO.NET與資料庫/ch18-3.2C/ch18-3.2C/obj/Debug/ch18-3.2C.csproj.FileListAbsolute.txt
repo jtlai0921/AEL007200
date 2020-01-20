@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\02_C#2008版本\ch18_第十八章  ADO.NET與資料庫\ch18-3.2C\ch18-3.2C\obj\Debug\ch18-3.2C.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\02_C#2008版本\ch18_第十八章  ADO.NET與資料庫\ch18-3.2C\ch18-3.2C\obj\Debug\ch18-3.2C.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\bin\Debug\Substring.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\bin\Debug\Substring.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\Substring.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\Substring.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\Substring\Substring\obj\Debug\Substring.pdb

@@ -1,0 +1,2 @@
+obj\Debug\ch5-2A.exe
+obj\Debug\ch5-2A.pdb

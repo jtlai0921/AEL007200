@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8_2_3A\ch8_2_3A\obj\Debug\ch8_2_3A.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch8_內建函數之應用\範例程式\ch8_2_3A\ch8_2_3A\obj\Debug\ch8_2_3A.pdb

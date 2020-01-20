@@ -1,0 +1,2 @@
+obj\Debug\ch3-4_A.exe
+obj\Debug\ch3-4_A.pdb

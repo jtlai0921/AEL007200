@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\bin\Debug\ch3-4_B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\bin\Debug\ch3-4_B.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ch3_4_B.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ch3_4_B.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ch3-4_B.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ch3-4_B.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch3_結構化程式設計\範例程式\ch3-4_B\ch3-4_B\obj\Debug\ch3-4_B.pdb

@@ -1,0 +1,2 @@
+obj\Debug\ch7-8A.exe
+obj\Debug\ch7-8A.pdb

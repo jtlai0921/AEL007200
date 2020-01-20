@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ch7_7.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ch7_7.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ch7-7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\bin\Debug\ch7-7.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\bin\Debug\ch7-7.pdb
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ch7-7.exe
+C:\Documents and Settings\Administrator\桌面\C語言2005\ch7_副程式\範例程式\ch7-7\ch7-7\obj\Debug\ch7-7.pdb

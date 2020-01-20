@@ -1,0 +1,2 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\C#\ch9_輸入與輸出介面設計\範例程式\ch9-3\ch10-3\obj\Debug\ch10-3.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\C#\ch9_輸入與輸出介面設計\範例程式\ch9-3\ch10-3\obj\Debug\ch10-3.pdb

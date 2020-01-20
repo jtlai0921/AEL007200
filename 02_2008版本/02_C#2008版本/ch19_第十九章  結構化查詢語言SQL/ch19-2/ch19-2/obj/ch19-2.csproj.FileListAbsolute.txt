@@ -1,0 +1,8 @@
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ch19_2.Form1.resources
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ch19_2.Properties.Resources.resources
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ch19-2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\bin\Debug\ch19-2.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\bin\Debug\ch19-2.pdb
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ch19-2.exe
+C:\Documents and Settings\Lee Chun-Hsiung\桌面\資料庫程式設計C#2008(971124)\01_教師手冊\02_範例程式\01_C#2005版本\ch19_第十九章  結構化查詢語言SQL\ch19-2\ch19-2\obj\Debug\ch19-2.pdb
